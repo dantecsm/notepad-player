@@ -95,9 +95,6 @@ end
 fclose(fid);    %关闭文档
 ```
 
-&emsp;
-dictionary.mat(代码依赖的字典)下载地址：[pan.baidu.com/s/1c1SC0NY](http://pan.baidu.com/s/1c1SC0NY)
-
 代码看着简单，是因为我们之前为了构造出这份字典，做了大量铺垫。可以说80%的思考量，都花在构造字典上。以后我们需要画面优化，只须更新字典即可。
 
 &emsp;
